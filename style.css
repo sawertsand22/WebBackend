@@ -1,0 +1,22 @@
+body{
+    background-color: #2d023f;
+}
+._predModal{
+    background:linear-gradient(180deg, #7E02B9 0%, rgba(100, 14, 140, 0.18) 100%)
+}
+.clos_by{
+    background: linear-gradient(180deg, rgba(126, 2, 185, 0.11) 0%, rgb(253, 253, 253) 100%);
+}
+.cd_edit{
+    border-color: #7E02B9;
+    color: #d08dec;
+    background: linear-gradient(180deg, #7E02B9 0%, rgba(100, 14, 140, 0.18) 100%);
+
+}
+h1{
+    color: #e1cbcb;
+
+}
+.modal-content{
+    background: linear-gradient(180deg, #7E02B9 0%, rgba(100, 14, 140, 0.18) 100%);
+}
